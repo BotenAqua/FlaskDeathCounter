@@ -1,0 +1,1 @@
+{'counter_file_path': 'counter/counter_file.txt', 'counter_file_text_structure': 'Deaths: {death_count}', 'flask_port': 5000}
